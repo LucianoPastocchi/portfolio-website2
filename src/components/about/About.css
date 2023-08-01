@@ -106,11 +106,3 @@
     text-align: center;
   }
 }
-
-/*-----------------------------SMALL DEVICES-----------------------------------*/
-
-@media screen and (max-width: 600px) {
-  .about_content p {
-    margin: 1.5rem 0;
-  }
-}
